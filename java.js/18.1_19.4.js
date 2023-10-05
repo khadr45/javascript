@@ -100,7 +100,7 @@ const li2 = document.createElement("li");
 const li3 = document.createElement("li");
 const tester = [li1, li2, li3];
 for (let j = 0; j < users.length; j++) {
-  for (let i = 0; i < tester.length; i++) {
+  for (let i = 0; i < teste r.length; i++) {
     if (i == j) {
       tester[i].setAttribute("id", users[j].id);
       tester[i].innerText = users[j].firstName + " " + users[j].lastName;

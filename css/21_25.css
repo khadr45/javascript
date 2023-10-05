@@ -1,0 +1,22 @@
+#p1,
+#p2{
+    visibility:hidden;
+    display: inline;
+    position: relative;
+    right: 0%;
+}
+.img2{
+    /* background-image: url("imgs/sts.jpg"); */
+    visibility: hidden;
+    position:relative;
+    top: 3%;
+    
+     left: -16%;
+}
+section{
+    margin-top: 30px;
+}
+.imgs{
+    margin-left: 14px;
+    border-radius: 10px;
+}
